@@ -1,0 +1,5 @@
+python -m pip install --upgrade pip
+pip3 install graphs
+pip3 install pandas
+pip3 install dash
+pip3 install numpy
