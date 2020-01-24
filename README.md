@@ -13,7 +13,7 @@ pip3 install numpy
 ```
 
 # Acessar a aplicação:
-Para acessar a aplicação basta executar o arquivo golden_project.py em seu terminal.
+Para acessar a aplicação basta executar o arquivo golden_project.py em seu terminal .
 ```bash
 python golden_project.py
 ```
@@ -21,7 +21,7 @@ python golden_project.py
 Acesse a aplicação através do link [localhost:8050](http://localhost:8050)
 
 # Como navegar pela aplicação?
-### ***Existem 3 abas para navegação e exploração de gráficos.***
+### ***Existem 3 abas para navegação e exploração de gráficos .***
 ### **1. Na primeira aba, para alterar a visualização do gráfico basta apenas alterar as informações dos ComboBox ou do slider de ano !**
 
 ![alt text](https://i.imgur.com/8qjBBgi.png)
@@ -49,11 +49,11 @@ Acesse a aplicação através do link [localhost:8050](http://localhost:8050)
 O gráfico mostra os dados do primeiro ano disponível até o ano marcado pelo slider e não somente os dados do ano marcado .
 
 ```
-- ***Com essa visualização podemos visualizar que a maiora das recorrências de de morte neonatal ocorre entre mães pardas e que fizeram o parto no hospital .***
+- ***Com essa visualização podemos concluir que a maiora das recorrências de morte neonatal ocorre entre as mães pardas que fizeram o parto no hospital .***
 
 
 ## 2. O segundo gráfico :
-- Estabelece uma relação entre mortes neonatal (***Eixo X***)  por faixa de peso em *gramas* (***Eixo Y***) e média de dias que vividos por faixa de peso (***Eixo Y***) .
+- Estabelece uma relação entre mortes neonatal (***Eixo X***)  por faixa de peso em *gramas* (***Eixo Y***) e média de dias que vividos por faixa de peso (***Eixo Z***) .
 - Também oferece a porcentagem de meninos e meninas que morreram para os anos marcados .
 ```bash
 # Observação
@@ -62,7 +62,7 @@ O gráfico 3D é interativo e você pode alterar o angulo da visão apenas segur
 ```
 - ***Com essa visualização é possível interpretar que as crianças na faixa de peso entre 1950g->2410g possuem maior expectativa de vida .***
 - ***Com essa informação pode-se concluir que se a criança estiver entre essa faixa de peso o médico tem mais tempo para agir e tomar atitudes cruciais para que a mesma não venha a óbito .***
-- ***Também é possível observer que meninos representam a maior quantidade dos óbitos. Isso pode ser um indicador para o médico tomar mais cuidado com os meninos .***
+- ***Também é possível observar que meninos representam a maior quantidade dos óbitos. Isso pode ser um indicador para o médico tomar mais cuidado com os meninos .***
 ## 3. O terceiro gráfico :
 - Estabelece uma relação entre a quantidade de mortes neonatal por faixa de idade das mães e por tipo de parto realizado.
 ```bash
@@ -79,7 +79,7 @@ A legenda das faixas etárias das mães são (Eixo X) :
 Cor verde: Parto cesariano .
 Cor amarela: Parto normal .
 ```
-* ***Com esta visualização podemos observer que mães que realizam cesária possuem menos chance de que seus filhos venham a óbito !***
+* ***Com esta visualização podemos observar que mães que realizam cesária possuem menos chance de que seus filhos venham a óbito !***
 - ***Podemos observar também que as mães a cima de 30 anos optam mais pela cesária que pelo parto normal, isso indica um fator de prevenção importante !***
 
 ### Implementações futuras
