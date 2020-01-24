@@ -60,7 +60,9 @@ O gráfico mostra os dados do primeiro ano disponível até o ano marcado pelo s
 
 O gráfico 3D é interativo e você pode alterar o angulo da visão apenas segura o mouse clicado em cima do gráfico e o arrastando para os lados ou pra cima .
 ```
-
+- ***Com essa visualização é possível interpretar que as crianças na faixa de peso entre 1950g->2410g possuem maior expectativa de vida .***
+- ***Com essa informação pode-se concluir que se a criança estiver entre essa faixa de peso o médico tem mais tempo para agir e tomar atitudes cruciais para que a mesma não venha a óbito .***
+- ***Também é possível observer que meninos representam a maior quantidade dos óbitos. Isso pode ser um indicador para o médico tomar mais cuidado com os meninos .***
 ## 3. O terceiro gráfico :
 - Estabelece uma relação entre a quantidade de mortes neonatal por faixa de idade das mães e por tipo de parto realizado.
 ```bash
@@ -80,33 +82,12 @@ Cor amarela: Parto normal .
 * ***Com esta visualização podemos observer que mães que realizam cesária possuem menos chance de que seus filhos venham a óbito !***
 - ***Podemos observar também que as mães a cima de 30 anos optam mais pela cesária que pelo parto normal, isso indica um fator de prevenção importante !***
 
-
-
-# Pacotes utilizados:
-```bash
-React:
-    react-router-dom,
-    @material-ui/core,
-    @material-ui/icons,
-    styled-components, 
-    axios, 
-    highcharts-react-official,
-    highcharts-react, 
-    react-highcharts,
-    highcharts. 
-```
-
-# Qual é o meu progresso?
-```bash
-100%
-```
-
 ### Implementações futuras
-1. ~~Redirecionamento automatico quando a API retornar objeto vazio~~  ***FEITO***   ***atualizado dia 19/01/2020***
-2. Design de interface.
-3. Update em tempo real.
-4. Otimização de código.
+1. Design de interface .
+2. Otimização de código .
 
 
 
-### ***Obrigado pela oportunidade e atenção!***
+### ***Obrigado pela atenção!***
+
+*Qualquer dúvida pode me contactar .*
